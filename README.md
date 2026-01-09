@@ -89,9 +89,11 @@
 
   Enter your choices(e.g. 2 6, default is none): 
   ```
-- Windows（需要管理员终端运行一次 `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned`，具体见：[#5](https://github.com/Qetesh/logi-options-plus-mini/issues/5)）
+- Windows ~~（需要管理员终端运行一次 `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned`，具体见：[#5](https://github.com/Qetesh/logi-options-plus-mini/issues/5)）~~ 
 
-  右键ps1脚本，`使用PowerShell运行`
+  ~~右键ps1脚本，`使用PowerShell运行`~~
+
+双击bat脚本 `Run_Install.bat`即可，(脚本会赋予一次临时的 ExecutionPolicy 权限)
 
   ```powershell
   ##############################################################
