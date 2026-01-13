@@ -98,8 +98,8 @@
    ```
 
    如果你不会git或者你不知道怎么给git设置代理（虽然我感觉不至于，你都来github了……）你可以在网页里下ZIP包，解压后使用
+   如果还嫌麻烦可以从这里下只有脚本的：[蓝奏云](https://tjsky.lanzouq.com/i5Vrp3fzq9dc)
 <img width="600" height="332" alt="image" src="https://github.com/user-attachments/assets/ddd0f2a3-5fd1-4b8c-a43e-5867b8c18629" />
-
    
 
 3. 双击bat脚本 `Run_Install.bat`即可，(脚本会赋予临时的 ExecutionPolicy 权限)
